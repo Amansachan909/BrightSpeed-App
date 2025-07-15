@@ -32,15 +32,15 @@
         <sys_created_by>ankur.j</sys_created_by>
         <sys_created_on>2025-07-15 12:44:19</sys_created_on>
         <sys_id>ae6f0b30fb76a610b299f49265efdc63</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>ankur.j</sys_updated_by>
-        <sys_updated_on>2025-07-15 13:01:05</sys_updated_on>
+        <sys_updated_on>2025-07-15 13:13:50</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
     </sys_app>
 </record_update>
